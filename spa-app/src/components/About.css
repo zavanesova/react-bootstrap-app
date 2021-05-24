@@ -1,0 +1,12 @@
+.text-center{
+    background: url('../components/images/background.jpeg') center center/cover no-repeat;
+  }
+
+.card-title{
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.btn, .text{
+    font-family: 'Roboto Condensed', sans-serif;
+}
