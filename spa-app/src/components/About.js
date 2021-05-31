@@ -4,6 +4,7 @@ import './About.css';
 import { Button, Card } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
+import CommentList from './CommentList';
 
 
 function About() {
@@ -22,6 +23,7 @@ function About() {
                 <Link to="/contact" className="btn btn-light" size="lg">CONTACT US</Link>
           </Card.Body>
         </Card>
+        <CommentList></CommentList>
         </div>
     )
 }
