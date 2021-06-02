@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-bootstrap-app/static/css/main.eb810491.chunk.css",
-    "main.js": "/react-bootstrap-app/static/js/main.395856f0.chunk.js",
-    "main.js.map": "/react-bootstrap-app/static/js/main.395856f0.chunk.js.map",
+    "main.css": "/react-bootstrap-app/static/css/main.90ae4480.chunk.css",
+    "main.js": "/react-bootstrap-app/static/js/main.92dc172d.chunk.js",
+    "main.js.map": "/react-bootstrap-app/static/js/main.92dc172d.chunk.js.map",
     "runtime-main.js": "/react-bootstrap-app/static/js/runtime-main.dd044594.js",
     "runtime-main.js.map": "/react-bootstrap-app/static/js/runtime-main.dd044594.js.map",
     "static/css/2.15a7a700.chunk.css": "/react-bootstrap-app/static/css/2.15a7a700.chunk.css",
-    "static/js/2.8d532d64.chunk.js": "/react-bootstrap-app/static/js/2.8d532d64.chunk.js",
-    "static/js/2.8d532d64.chunk.js.map": "/react-bootstrap-app/static/js/2.8d532d64.chunk.js.map",
+    "static/js/2.04591ad0.chunk.js": "/react-bootstrap-app/static/js/2.04591ad0.chunk.js",
+    "static/js/2.04591ad0.chunk.js.map": "/react-bootstrap-app/static/js/2.04591ad0.chunk.js.map",
     "index.html": "/react-bootstrap-app/index.html",
     "static/css/2.15a7a700.chunk.css.map": "/react-bootstrap-app/static/css/2.15a7a700.chunk.css.map",
-    "static/css/main.eb810491.chunk.css.map": "/react-bootstrap-app/static/css/main.eb810491.chunk.css.map",
-    "static/js/2.8d532d64.chunk.js.LICENSE.txt": "/react-bootstrap-app/static/js/2.8d532d64.chunk.js.LICENSE.txt",
+    "static/css/main.90ae4480.chunk.css.map": "/react-bootstrap-app/static/css/main.90ae4480.chunk.css.map",
+    "static/js/2.04591ad0.chunk.js.LICENSE.txt": "/react-bootstrap-app/static/js/2.04591ad0.chunk.js.LICENSE.txt",
     "static/media/aboutimg.5131a74c.jpeg": "/react-bootstrap-app/static/media/aboutimg.5131a74c.jpeg",
     "static/media/About.css": "/react-bootstrap-app/static/media/background.b061be30.jpeg",
     "static/media/facial.778a995d.jpeg": "/react-bootstrap-app/static/media/facial.778a995d.jpeg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.dd044594.js",
     "static/css/2.15a7a700.chunk.css",
-    "static/js/2.8d532d64.chunk.js",
-    "static/css/main.eb810491.chunk.css",
-    "static/js/main.395856f0.chunk.js"
+    "static/js/2.04591ad0.chunk.js",
+    "static/css/main.90ae4480.chunk.css",
+    "static/js/main.92dc172d.chunk.js"
   ]
 }
