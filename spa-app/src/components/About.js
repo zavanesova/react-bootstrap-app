@@ -23,7 +23,11 @@ function About() {
                 <Link to="/contact" className="btn btn-light" size="lg">CONTACT US</Link>
           </Card.Body>
         </Card>
+        <Card className="text-center">
+        <Card.Body className="card-body" style={mystyle}>
         <CommentList></CommentList>
+        </Card.Body>
+        </Card>
         </div>
     )
 }

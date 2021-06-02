@@ -19,7 +19,7 @@ function App() {
       <header className='App-header'>
       <Router>
       <Navbar className="nav" collapseOnSelect expand="lg" bg="dark" variant="dark">
-        <Navbar.Brand href="home" style={mystyle}>SPA MED <i class="fas fa-spa"></i></Navbar.Brand>
+        <Navbar.Brand as={Link} to="/home" href="home" style={mystyle}>SPA MED <i class="fas fa-spa"></i></Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
@@ -34,13 +34,6 @@ function App() {
       <Route path='/' exact component={About}></Route>
       <Route path='/home' exact component={About}></Route>
       <Route path='/about-us' exact component={About}></Route>
-      {/* <Switch>
-        <Route path='/about-us' exact component={About}></Route>
-        <Route path='/contact' exact component={Contact}></Route>
-        <Route path='/services' exact component={services}></Route>
-        <Route path='/' exact component={About}></Route>
-        <Route path='/home' exact component={About}></Route>
-      </Switch> */}
       </Router>
       </header>
     </div>

@@ -1,4 +1,6 @@
-import React, {useState} from 'react'
+import React, {useState} from 'react';
+import './CommentForm.css';
+
 
 function CommentForm(props) {
     const [comment, addComment] = useState('');
@@ -21,7 +23,7 @@ function CommentForm(props) {
 
     return (
         <form className="comment-form" onSubmit={handleSubmit}>
-            <input type="text" placeholder="Add a comment about your experience" value={comment} name="text" className="comment-form" onChange={handleChange}></input>
+            <input name = "text" type="text" size = "50" placeholder="Add a comment about your experience" value={comment} name="text" className="comment-form-box" onChange={handleChange}></input>
             <button className="btn btn-light">Submit</button>
         </form>
     )
